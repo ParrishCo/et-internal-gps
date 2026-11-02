@@ -1,0 +1,6 @@
+# Support reports and test logs contain device details - never commit them
+*.log
+et-internal-gps-report-*
+# Drafts kept off GitHub
+NOTE-for-TheTechPrepper.md
+.DS_Store
